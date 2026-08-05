@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: a937810081a434cbb97c02551d528bd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4279103705620882079
+    second: angelaw2_Lvl2_MantarayDie_0
+  - first:
+      213: -8070939311740369692
+    second: angelaw2_Lvl2_MantarayDie_1
+  - first:
+      213: -2281485169604668375
+    second: angelaw2_Lvl2_MantarayDie_2
+  - first:
+      213: 7924998351996728846
+    second: angelaw2_Lvl2_MantarayDie_3
+  - first:
+      213: 34849694577867864
+    second: angelaw2_Lvl2_MantarayDie_4
+  - first:
+      213: 8037594399409660651
+    second: angelaw2_Lvl2_MantarayDie_5
+  - first:
+      213: -3727082604256646588
+    second: angelaw2_Lvl2_MantarayDie_6
+  - first:
+      213: 2818510659681701056
+    second: angelaw2_Lvl2_MantarayDie_7
+  - first:
+      213: -6940775550918007894
+    second: angelaw2_Lvl2_MantarayDie_8
+  - first:
+      213: -5753208338915682974
+    second: angelaw2_Lvl2_MantarayDie_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92279a062e626b30800000000000000
+      internalID: 4279103705620882079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2100
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4caf725734eff80800000000000000
+      internalID: -8070939311740369692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924546973598650e0800000000000000
+      internalID: -2281485169604668375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_3
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06325043004bfd60800000000000000
+      internalID: 7924998351996728846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c38d1dc9fcb7000800000000000000
+      internalID: 34849694577867864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 700
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be26b7175854b8f60800000000000000
+      internalID: 8037594399409660651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aaebc4e1eb64cc0800000000000000
+      internalID: -3727082604256646588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl2_MantarayDie_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 1400
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cccaf9038c5d1720800000000000000
+      internalID: 2818510659681701056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1dcab9fb24f8f4a06ab55a5a9b3aa599
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":1400.0,"y":700.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelaw2_Lvl2_MantarayDie_0: 4279103705620882079
+      angelaw2_Lvl2_MantarayDie_1: -8070939311740369692
+      angelaw2_Lvl2_MantarayDie_2: -2281485169604668375
+      angelaw2_Lvl2_MantarayDie_3: 7924998351996728846
+      angelaw2_Lvl2_MantarayDie_4: 34849694577867864
+      angelaw2_Lvl2_MantarayDie_5: 8037594399409660651
+      angelaw2_Lvl2_MantarayDie_6: -3727082604256646588
+      angelaw2_Lvl2_MantarayDie_7: 2818510659681701056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

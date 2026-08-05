@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 1161b70159a894df784772d347043617
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2817500106482660077
+    second: bdubose_SquishyAnimationLVL2_0
+  - first:
+      213: 6329880541708696552
+    second: bdubose_SquishyAnimationLVL2_1
+  - first:
+      213: -1005384400776598397
+    second: bdubose_SquishyAnimationLVL2_2
+  - first:
+      213: 2354954126168884299
+    second: bdubose_SquishyAnimationLVL2_3
+  - first:
+      213: 3004477434827737437
+    second: bdubose_SquishyAnimationLVL2_4
+  - first:
+      213: -3532550095772486634
+    second: bdubose_SquishyAnimationLVL2_5
+  - first:
+      213: -8761957160031382542
+    second: bdubose_SquishyAnimationLVL2_6
+  - first:
+      213: 3345044017920935356
+    second: bdubose_SquishyAnimationLVL2_7
+  - first:
+      213: 1512114894003153849
+    second: bdubose_SquishyAnimationLVL2_8
+  - first:
+      213: -7280308014704249178
+    second: bdubose_SquishyAnimationLVL2_9
+  - first:
+      213: 7353316031079012687
+    second: bdubose_SquishyAnimationLVL2_10
+  - first:
+      213: -4026699064378888621
+    second: bdubose_SquishyAnimationLVL2_11
+  - first:
+      213: 7727839719996400107
+    second: bdubose_SquishyAnimationLVL2_12
+  - first:
+      213: -2075902726859456624
+    second: bdubose_SquishyAnimationLVL2_13
+  - first:
+      213: -5903561419500793764
+    second: bdubose_SquishyAnimationLVL2_14
+  - first:
+      213: -4094160745021370286
+    second: bdubose_SquishyAnimationLVL2_15
+  - first:
+      213: 8017492670302168476
+    second: bdubose_SquishyAnimationLVL2_16
+  - first:
+      213: 8037034664904169299
+    second: bdubose_SquishyAnimationLVL2_17
+  - first:
+      213: 710483859164732138
+    second: bdubose_SquishyAnimationLVL2_18
+  - first:
+      213: 5441886321860251301
+    second: bdubose_SquishyAnimationLVL2_19
+  - first:
+      213: 8510872807733071041
+    second: bdubose_SquishyAnimationLVL2_20
+  - first:
+      213: 1025217207655039398
+    second: bdubose_SquishyAnimationLVL2_21
+  - first:
+      213: -1123460896808474812
+    second: bdubose_SquishyAnimationLVL2_22
+  - first:
+      213: -4176853383677289974
+    second: bdubose_SquishyAnimationLVL2_23
+  - first:
+      213: 2403528036523375076
+    second: bdubose_SquishyAnimationLVL2_24
+  - first:
+      213: -6145578854745796180
+    second: bdubose_SquishyAnimationLVL2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bdubose_SquishyAnimationLVL2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de236894b65c91720800000000000000
+      internalID: 2817500106482660077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_SquishyAnimationLVL2_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb3437c0d048d750800000000000000
+      internalID: 6329880541708696552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_SquishyAnimationLVL2_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cedf8d6382c02f0800000000000000
+      internalID: -1005384400776598397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_SquishyAnimationLVL2_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4403a8fc4a7ea020800000000000000
+      internalID: 2354954126168884299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_SquishyAnimationLVL2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59859efe4c02b920800000000000000
+      internalID: 3004477434827737437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_SquishyAnimationLVL2_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 860
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147536776cd9fec0800000000000000
+      internalID: -3532550095772486634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fc7f23aad36d40398d48a63ba2558e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":430.0,"y":430.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bdubose_SquishyAnimationLVL2_0: 2817500106482660077
+      bdubose_SquishyAnimationLVL2_1: 6329880541708696552
+      bdubose_SquishyAnimationLVL2_2: -1005384400776598397
+      bdubose_SquishyAnimationLVL2_3: 2354954126168884299
+      bdubose_SquishyAnimationLVL2_4: 3004477434827737437
+      bdubose_SquishyAnimationLVL2_5: -3532550095772486634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

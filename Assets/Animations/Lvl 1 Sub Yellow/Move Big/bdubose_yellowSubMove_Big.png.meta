@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 6f77a79d09cd24d00a244f3e06cdf303
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4239525478003859462
+    second: bdubose_yellowSubMove_Big_0
+  - first:
+      213: -2249772807141266267
+    second: bdubose_yellowSubMove_Big_1
+  - first:
+      213: -4480615130442189465
+    second: bdubose_yellowSubMove_Big_2
+  - first:
+      213: 4527867829087943705
+    second: bdubose_yellowSubMove_Big_3
+  - first:
+      213: 1343782919085120000
+    second: bdubose_yellowSubMove_Big_4
+  - first:
+      213: 6234277947580951901
+    second: bdubose_yellowSubMove_Big_5
+  - first:
+      213: 1018596605611785427
+    second: bdubose_yellowSubMove_Big_6
+  - first:
+      213: 5668102026484220112
+    second: bdubose_yellowSubMove_Big_7
+  - first:
+      213: 1502349311513933970
+    second: bdubose_yellowSubMove_Big_8
+  - first:
+      213: -5217343628448396457
+    second: bdubose_yellowSubMove_Big_9
+  - first:
+      213: 7401337034014971019
+    second: bdubose_yellowSubMove_Big_10
+  - first:
+      213: -4195871837352108175
+    second: bdubose_yellowSubMove_Big_11
+  - first:
+      213: 5623616595161259590
+    second: bdubose_yellowSubMove_Big_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff9c5b2a0e2a25c0800000000000000
+      internalID: -4239525478003859462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ace20d3d8337c0e0800000000000000
+      internalID: -2249772807141266267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b0c63748a1d1c0800000000000000
+      internalID: -4480615130442189465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1290
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cb4b60dc736de30800000000000000
+      internalID: 4527867829087943705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a5e4bf17316a210800000000000000
+      internalID: 1343782919085120000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 860
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d2d9043ca948650800000000000000
+      internalID: 6234277947580951901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 860
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb8ee4738c22e00800000000000000
+      internalID: 1018596605611785427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_yellowSubMove_Big_7
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 860
+        width: 430
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0834f13c429ae40800000000000000
+      internalID: 5668102026484220112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70a220e2af0c841b69bb9643ecb6a195
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":430.0,"y":430.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bdubose_yellowSubMove_Big_0: -4239525478003859462
+      bdubose_yellowSubMove_Big_1: -2249772807141266267
+      bdubose_yellowSubMove_Big_2: -4480615130442189465
+      bdubose_yellowSubMove_Big_3: 4527867829087943705
+      bdubose_yellowSubMove_Big_4: 1343782919085120000
+      bdubose_yellowSubMove_Big_5: 6234277947580951901
+      bdubose_yellowSubMove_Big_6: 1018596605611785427
+      bdubose_yellowSubMove_Big_7: 5668102026484220112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

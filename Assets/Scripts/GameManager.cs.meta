@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f408fb6715b14282a2feab1c219ea6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - playerObject: {fileID: 3139411077730386285, guid: 943f7cbd29002ec44beba6135384fca9, type: 3}
+  - trashObject: {fileID: 1237585206258447778, guid: f78ca1ae2b8584dba85d743ebc3fb398, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

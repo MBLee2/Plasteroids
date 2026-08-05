@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: b98cb572309de4b2ba10eb6ee5e8795d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3796256612024780305
+    second: angelaw2_Lvl3_EelDie_0
+  - first:
+      213: 1761950531566246421
+    second: angelaw2_Lvl3_EelDie_1
+  - first:
+      213: -5237435550012561977
+    second: angelaw2_Lvl3_EelDie_2
+  - first:
+      213: -2094555589304562910
+    second: angelaw2_Lvl3_EelDie_3
+  - first:
+      213: 2992672864258565979
+    second: angelaw2_Lvl3_EelDie_4
+  - first:
+      213: 1717425344933458353
+    second: angelaw2_Lvl3_EelDie_5
+  - first:
+      213: -4168375177522477246
+    second: angelaw2_Lvl3_EelDie_6
+  - first:
+      213: 7448390932347309226
+    second: angelaw2_Lvl3_EelDie_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1809
+        width: 1067
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11607f376430fa430800000000000000
+      internalID: 3796256612024780305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_1
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1739
+        width: 1077
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a11d95ca4b37810800000000000000
+      internalID: 1761950531566246421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1254
+        width: 1067
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5af7bcd14e057b0800000000000000
+      internalID: -5237435550012561977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_3
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1199
+        width: 997
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b4139f9c4aee2e0800000000000000
+      internalID: -2094555589304562910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 709
+        width: 1067
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57251b3d1c188920800000000000000
+      internalID: 2992672864258565979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_5
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 589
+        width: 807
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f20d704585d710800000000000000
+      internalID: 1717425344933458353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 159
+        width: 1067
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247873d6cd4f626c0800000000000000
+      internalID: -4168375177522477246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_EelDie_7
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 169
+        width: 172
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac4dc6f6100e5760800000000000000
+      internalID: 7448390932347309226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      angelaw2_Lvl3_EelDie_0: 3796256612024780305
+      angelaw2_Lvl3_EelDie_1: 1761950531566246421
+      angelaw2_Lvl3_EelDie_2: -5237435550012561977
+      angelaw2_Lvl3_EelDie_3: -2094555589304562910
+      angelaw2_Lvl3_EelDie_4: 2992672864258565979
+      angelaw2_Lvl3_EelDie_5: 1717425344933458353
+      angelaw2_Lvl3_EelDie_6: -4168375177522477246
+      angelaw2_Lvl3_EelDie_7: 7448390932347309226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 454f15e18c14446398d067bf20890595
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6517223054332557790
+    second: angelaw2_Lvl3_AnglerDie_0
+  - first:
+      213: 1833625850625850420
+    second: angelaw2_Lvl3_AnglerDie_1
+  - first:
+      213: 7423637094089049636
+    second: angelaw2_Lvl3_AnglerDie_2
+  - first:
+      213: 434726909517451001
+    second: angelaw2_Lvl3_AnglerDie_3
+  - first:
+      213: 3000947558813907641
+    second: angelaw2_Lvl3_AnglerDie_4
+  - first:
+      213: 3413657777574336277
+    second: angelaw2_Lvl3_AnglerDie_5
+  - first:
+      213: -361099074850693438
+    second: angelaw2_Lvl3_AnglerDie_6
+  - first:
+      213: 1670368360164549192
+    second: angelaw2_Lvl3_AnglerDie_7
+  - first:
+      213: -332765339823334883
+    second: angelaw2_Lvl3_AnglerDie_8
+  - first:
+      213: -6955039321457205080
+    second: angelaw2_Lvl3_AnglerDie_9
+  - first:
+      213: -6597960558121786553
+    second: angelaw2_Lvl3_AnglerDie_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed97a7396d3d17a50800000000000000
+      internalID: 6517223054332557790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1290
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cf6850ff8527910800000000000000
+      internalID: 1833625850625850420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426479eda9e060760800000000000000
+      internalID: 7423637094089049636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 860
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe471822d5780600800000000000000
+      internalID: 434726909517451001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9babda0b7e185a920800000000000000
+      internalID: 3000947558813907641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 430
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517511199afbf5f20800000000000000
+      internalID: 3413657777574336277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelaw2_Lvl3_AnglerDie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 573
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5dcafd4e1dfaf0800000000000000
+      internalID: -361099074850693438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe94ef4be83e44e16a973781c103f703
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":4.0},"gridSpriteSize":{"x":573.0,"y":430.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      angelaw2_Lvl3_AnglerDie_0: 6517223054332557790
+      angelaw2_Lvl3_AnglerDie_1: 1833625850625850420
+      angelaw2_Lvl3_AnglerDie_2: 7423637094089049636
+      angelaw2_Lvl3_AnglerDie_3: 434726909517451001
+      angelaw2_Lvl3_AnglerDie_4: 3000947558813907641
+      angelaw2_Lvl3_AnglerDie_5: 3413657777574336277
+      angelaw2_Lvl3_AnglerDie_6: -361099074850693438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

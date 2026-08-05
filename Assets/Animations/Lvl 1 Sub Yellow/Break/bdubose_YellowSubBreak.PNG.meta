@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: f776b9ae935af468c9e1a95eb32c4caf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2551358026566330968
+    second: bdubose_YellowSubBreak_0
+  - first:
+      213: -8089966521821884342
+    second: bdubose_YellowSubBreak_1
+  - first:
+      213: 3791090821381743179
+    second: bdubose_YellowSubBreak_2
+  - first:
+      213: -6198199519014180749
+    second: bdubose_YellowSubBreak_3
+  - first:
+      213: -1561805972583581982
+    second: bdubose_YellowSubBreak_4
+  - first:
+      213: -3953066419321591430
+    second: bdubose_YellowSubBreak_5
+  - first:
+      213: 446485048354509035
+    second: bdubose_YellowSubBreak_6
+  - first:
+      213: -8032587450601088922
+    second: bdubose_YellowSubBreak_7
+  - first:
+      213: -2655199345388189443
+    second: bdubose_YellowSubBreak_8
+  - first:
+      213: -4627848738998598107
+    second: bdubose_YellowSubBreak_9
+  - first:
+      213: -8539993237443589248
+    second: bdubose_YellowSubBreak_10
+  - first:
+      213: 7157780407287047594
+    second: bdubose_YellowSubBreak_11
+  - first:
+      213: 3026444445906129919
+    second: bdubose_YellowSubBreak_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1490
+        width: 359
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a51cab7461c79cd0800000000000000
+      internalID: -2551358026566330968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4011069f4aaabf80800000000000000
+      internalID: -8089966521821884342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1490
+        width: 366
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e3b71409ac9430800000000000000
+      internalID: 3791090821381743179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a92e70629bf9a0800000000000000
+      internalID: -6198199519014180749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1021
+        width: 380
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e672142eb9535ae0800000000000000
+      internalID: -1561805972583581982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1091
+        width: 177
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79afce2903e329c0800000000000000
+      internalID: -3953066419321591430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1140
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be091b039cb323600800000000000000
+      internalID: 446485048354509035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1035
+        width: 191
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66859aba544868090800000000000000
+      internalID: -8032587450601088922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1098
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df889426346d62bd0800000000000000
+      internalID: -2655199345388189443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1091
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526cfbd571496cfb0800000000000000
+      internalID: -4627848738998598107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_10
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1105
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bcfe9b569db7980800000000000000
+      internalID: -8539993237443589248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1049
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5689c5b5b855360800000000000000
+      internalID: 7157780407287047594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bdubose_YellowSubBreak_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1014
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff350b25037100a20800000000000000
+      internalID: 3026444445906129919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bdubose_YellowSubBreak_0: -2551358026566330968
+      bdubose_YellowSubBreak_1: -8089966521821884342
+      bdubose_YellowSubBreak_10: -8539993237443589248
+      bdubose_YellowSubBreak_11: 7157780407287047594
+      bdubose_YellowSubBreak_12: 3026444445906129919
+      bdubose_YellowSubBreak_2: 3791090821381743179
+      bdubose_YellowSubBreak_3: -6198199519014180749
+      bdubose_YellowSubBreak_4: -1561805972583581982
+      bdubose_YellowSubBreak_5: -3953066419321591430
+      bdubose_YellowSubBreak_6: 446485048354509035
+      bdubose_YellowSubBreak_7: -8032587450601088922
+      bdubose_YellowSubBreak_8: -2655199345388189443
+      bdubose_YellowSubBreak_9: -4627848738998598107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
